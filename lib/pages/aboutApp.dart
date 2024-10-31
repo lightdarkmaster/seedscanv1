@@ -1,7 +1,8 @@
+// ignore: file_names
 import 'package:flutter/material.dart';
 
 class AboutApp extends StatelessWidget {
-  const AboutApp({Key? key});
+  const AboutApp({super.key});
 
   @override
   Widget build(BuildContext context) {

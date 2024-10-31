@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:curved_navigation_bar/curved_navigation_bar.dart';
 import 'package:seedscanv1/pages/calculatorPage.dart';
-import 'package:seedscanv1/pages/capturepage.dart';
+import 'package:seedscanv1/pages/capturePage.dart';
 import 'package:seedscanv1/pages/yoloDetection.dart';
 //import 'package:seedscan2/pages/login.dart';
 import '../pages/homescreen.dart';
